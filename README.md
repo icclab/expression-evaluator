@@ -33,7 +33,7 @@ LT(add(vnfs[1].memory-consumption, vnfs[2].memory-consumption, 100))
 * maven 3.0 or higher
 
 # one-step installation steps (ubuntu or debian system)
-* download the setup script - https://raw.githubusercontent.com/piyush82/expression-evaluator/master/setup.sh
+* download the setup script - https://raw.githubusercontent.com/icclab/expression-evaluator/master/setup.sh
 * make the script executable - ```chmod +x setup.sh```
 * execute the script - ```./setup.sh```
 * follow the prompts and you are done. You will be prompted to provide certain inputs during the script execution. See configuration parameters section below.

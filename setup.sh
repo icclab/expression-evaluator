@@ -34,7 +34,7 @@ sudo apt-get -y install maven
 sudo apt-get -y install git
 
 ### Getting the code from github ###
-git clone https://github.com/piyush82/expression-evaluator.git
+git clone https://github.com/icclab/expression-evaluator.git
 
 ### Building the package dependencies into single jar ###
 sudo mkdir -p /var/log/tnova/expeval/
