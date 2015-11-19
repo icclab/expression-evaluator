@@ -92,3 +92,16 @@ This API call allows one to get some of the system counters. Currently, this cal
 # need more info or want to contribute
 Please contact me at ```piyush DOT harsh AT zhaw DOT ch```.
 
+## License
+
+this software is licensed under the
+[Apache License version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+See the file LICENSE.
+
+# Made by
+
+<div align="center" >
+<a href='http://blog.zhaw.ch/icclab'>
+<img src="https://raw.githubusercontent.com/icclab/hurtle/master/docs/figs/icclab_logo.png" title="hurtle" width=400px>
+</a>
+</div>
